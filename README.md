@@ -9,6 +9,6 @@ latest Flutter beta build, and runs `flutter test` against the repository. This
 assumes that the repository is a single Flutter application with a `test/` directory
 containing Flutter unit tests.
 
-[0]: https://travis-ci.org/yjbanov/flutter_travis_sample.svg?branch=master
-[1]: https://travis-ci.org/yjbanov/flutter_travis_sample
-[2]: https://github.com/yjbanov/flutter_travis_sample/blob/master/.travis.yml
+[0]: https://travis-ci.org/mmichelon/flutter_travis_sample.svg?branch=master
+[1]: https://travis-ci.org/mmichelon/flutter_travis_sample
+[2]: https://github.com/mmichelon/flutter_travis_sample/blob/master/.travis.yml
